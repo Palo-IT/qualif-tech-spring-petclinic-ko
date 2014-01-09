@@ -1,11 +1,11 @@
 # <a href="http://palo-it.com/">Palo-IT</a> Spring PetClinic Sample Application KO
 
-## What this project for ?
+## What is this project for ?
 This project is for practical qualification test. The candidate have to fix it in the TestDrivenDevelopement way.
 Techno : Spring-core, Spring-data, JPA, JDBC, SQL, JPQL ...
 
 ## What does it look like?
-The original spring-petclinic has been deployed here on cloudfoundry: http://spring-petclinic.cloudfoundry.com/
+The original spring-petclinic has been deployed here on cloudfoundry: http://gopetclinic.cfapps.io/
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
